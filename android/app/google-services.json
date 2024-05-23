@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "380078754041",
+    "project_id": "quiz-app-d1f94",
+    "storage_bucket": "quiz-app-d1f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380078754041:android:d98f47f3746fd873df3a28",
+        "android_client_info": {
+          "package_name": "com.example.google_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380078754041-n4n1hisecnfigh2t50036g25iec5kh1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXmrB5Yx3sjLneigTMje_kBLBx4jkKlvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380078754041-n4n1hisecnfigh2t50036g25iec5kh1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380078754041-ips9mkhjigspo1bn9jsap6dc5r486632.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380078754041:android:82fe4b0735a867f9df3a28",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380078754041-jte5ohf2nskvk5rgaels3lojbsibcluc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz_app",
+            "certificate_hash": "88a05d9b02e85eba6bbf6c6f2e0e8feedde0d4ff"
+          }
+        },
+        {
+          "client_id": "380078754041-n4n1hisecnfigh2t50036g25iec5kh1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXmrB5Yx3sjLneigTMje_kBLBx4jkKlvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380078754041-n4n1hisecnfigh2t50036g25iec5kh1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380078754041-ips9mkhjigspo1bn9jsap6dc5r486632.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
